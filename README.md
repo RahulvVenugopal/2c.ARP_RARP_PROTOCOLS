@@ -45,7 +45,7 @@ s.send(ip.encode())
 print("MAC Address",s.recv(1024).decode()) 
 ```
 ## OUPUT
-![image](https://github.com/RahulvVenugopal/2c.ARP_RARP_PROTOCOLS/assets/144132514/56a19951-019b-4ed7-a4d1-93e6fcb6e412)
+![Screenshot (172)](https://github.com/RahulvVenugopal/2c.ARP_RARP_PROTOCOLS/assets/144132514/31388d8f-e927-4fd2-8820-8fe2f7ba9c01)
 
 
 ## RESULT
